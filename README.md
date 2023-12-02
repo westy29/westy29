@@ -56,3 +56,5 @@ I am a full-stack developer and admin, with experience in java, kotlin, css, c++
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/westy29"><img src="https://github-readme-stats.vercel.app/api?username=westy29&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="westy29's GitHub stats" /></a>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/793855865543196682)](https://discord.com/users/793855865543196682)
