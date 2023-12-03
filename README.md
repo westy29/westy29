@@ -15,8 +15,7 @@ I am currently learning js, ts, html, rust.
 * 🤝  I'm open to collaborating on Minecraft Plugins and Discord Bots and Servers
 * ⚡  I'm not a developer I'm a devil
 
-### Skills (all computer funnies i have a beginner or higher knowledge base in)
-============================================================================================================================
+### Skills (all computer related sofware etc i have a beginner or higher knowledge base in)
 
 ### Core
 -----------------------------------------------
