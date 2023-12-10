@@ -5,7 +5,6 @@ Full-Stack developer and systems administrator.
 -----------------------------------------------
 
 I am a full-stack developer and admin, with intermediate to proficent experience in java, kotlin, css, c++, c#, c, python, Sql.
-I am currently learning js, ts, html, rust. 
 2 years working with java and kotlin. 
 5 years working with python and sql. 
 6 years working with css, c++, c#, c.
