@@ -14,9 +14,8 @@ I am a full-stack developer and admin, with intermediate to proficent experience
 * 🌍  I'm based in the midlands of england
 * 🧠  I'm learning js, ts, html, rust.
 * 🤝  I'm open to collaborating on Minecraft Plugins and Discord Bots and Servers
-* ⚡  I'm not a developer I'm a devil
 
-### Skills (all computer related sofware etc i have a beginner or higher knowledge base in)
+### Skills
 
 ### Core
 -----------------------------------------------
