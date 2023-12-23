@@ -6,6 +6,7 @@ Full-Stack developer and systems administrator.
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1107449039076720740/1183053642266329179/88sbcd.gif?ex=65902a10&is=657db510&hm=620e23ea6ff22965411201361fb4d04a0386158b5aed39f2a1ac43d347a8305b&" />
 </p>
+
 -----------------------------------------------
 
 I am a full-stack developer and admin, with intermediate to proficent experience in java, kotlin, css, c++, c#, c, python, Sql and many other languages.
