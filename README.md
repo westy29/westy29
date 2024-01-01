@@ -16,9 +16,6 @@ I am a full-stack developer and admin, with intermediate to proficent experience
 
 <b>My GitHub Stats</b>
 -----------------------------------------------
-<a href="https://github.com/westy29" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westy29&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-----------------------------------------------
 [![Discord Presence](https://lanyard.cnrad.dev/api/793855865543196682)](https://discord.com/users/793855865543196682)
 
 ![westy29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=westy29&theme=vue-dark&show_icons=true&hide_border=true&layout=compact), ![westy29's Streak](https://github-readme-streak-stats.herokuapp.com/?user=westy29&theme=vue-dark&hide_border=true)
