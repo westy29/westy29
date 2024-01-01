@@ -18,6 +18,6 @@ I am a full-stack developer and admin, with intermediate to proficent experience
 -----------------------------------------------
 [![Discord Presence](https://lanyard.cnrad.dev/api/793855865543196682)](https://discord.com/users/793855865543196682)
 
-![westy29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=westy29&theme=vue-dark&show_icons=true&hide_border=true&layout=compact), ![westy29's Streak](https://github-readme-streak-stats.herokuapp.com/?user=westy29&theme=vue-dark&hide_border=true)
+![westy29's Streak](https://github-readme-streak-stats.herokuapp.com/?user=westy29&theme=vue-dark&hide_border=true), ![westy29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=westy29&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg)](https://forthebadge.com), [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
