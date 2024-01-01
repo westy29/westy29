@@ -6,8 +6,6 @@ Full-Stack developer and systems administrator.
 <p align="center">
     <img src="https://badgen.net/static/JakeyDev/Died?color=blue">
 </p>
------------------------------------------------
-
 I am a full-stack developer and admin, with intermediate to proficent experience in java, kotlin, css, c++, c#, c, python, Sql and many other languages.
 
 * 🌍  I'm based in the midlands of england
