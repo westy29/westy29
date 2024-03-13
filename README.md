@@ -19,3 +19,9 @@ I am a full-stack developer and admin, with intermediate to proficent experience
 ![westy29's Streak](https://github-readme-streak-stats.herokuapp.com/?user=westy29&theme=vue-dark&hide_border=true)
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg)](https://forthebadge.com)
+
+
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=westy29&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+  <br>
+</a>
